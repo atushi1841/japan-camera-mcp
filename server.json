@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.atushi1841/japan-camera-mcp",
+  "description": "RapidAPI wrapper for Japan Camera & Lens Resale Price Research API. FREEMIUM tier, no account required for metadata.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/atushi1841/japan-camera-mcp",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/atushi1841/japan-camera-mcp/releases/download/v0.1.0/server.mcpb",
+      "version": "0.1.0",
+      "fileSha256": "6374061cf6ac72a16709621cc12ff4c399eee78b228e3de6c9c93f6b1b494e5e",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
